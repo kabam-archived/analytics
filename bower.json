@@ -1,0 +1,14 @@
+{
+  "name": "analytics-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "*",
+    "angular-bootstrap": "*",
+    "angular-cookies": "*",
+    "angular-loader": "*",
+    "angular-mocks": "*",
+    "angular-resource": "*",
+    "angular-sanitize": "*",
+    "angular-scenario": "*"
+  }
+}
