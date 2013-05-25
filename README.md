@@ -1,6 +1,6 @@
-# Analytics in Angular - Express - MongoDB Application
+# Analytics in Angular - Express - Redis - MongoDB Application
 
-This application showcase the Analytics module works in an Angular - Express - MongoDB - based
+This application showcase the Analytics module works in an Angular - Express - Redis - MongoDB - based
 application. This application used the [Angular Socket.io Seed](https://github.com/btford/angular-socket-io-seed)
 as the basis for original template. You'll need node.js, Redis and MongoDB installed for this program.
 
