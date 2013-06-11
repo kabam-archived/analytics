@@ -24,7 +24,7 @@ $ sudo npm install -g jshint
 Use git to clone the application, then use npm and bower to install the dependency:
 
 ```sh
-$ git clone git@github.com:Webizly/analytics.git
+$ git clone git@github.com:mywebclass/analytics.git
 
 $ cd analytics
 
