@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mywebclass/analytics.png)](https://waffle.io/mywebclass/analytics)  
 # Analytics in Angular - Express - Redis - MongoDB Application
 
 This application showcase the Analytics module works in an Angular - Express - Redis - MongoDB - based
